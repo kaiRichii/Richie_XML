@@ -1,0 +1,15 @@
+<list>
+    <title>Richie's Hobbies</title>
+    <list_item>
+        <icon>https://cdn-icons-png.flaticon.com/512/2410/2410314.png</icon>
+        <label>Singing</label>
+    </list_item>
+    <list_item>
+        <icon>https://cdn-icons-png.flaticon.com/512/2061/2061107.png</icon>
+        <label>Watching Kdramas</label>
+    </list_item>
+    <list_item>
+        <icon>https://cdn-icons-png.flaticon.com/512/2706/2706828.png</icon>
+        <label>Watching Mystery Crime Videos</label>
+    </list_item>
+</list>

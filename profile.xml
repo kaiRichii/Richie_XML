@@ -1,0 +1,13 @@
+<profile_container>
+    <image>
+        <file_path>images/myFace.png</file_path>
+        <alt_text>Richie Narval's Profile Picture</alt_text>
+    </image>
+    <name>Richie Narval</name>
+    <description>
+        IT Student,
+        <link>https://www.facebook.com/ctunagaextension</link>
+        <title>CTU NAGA EXTENSION CAMPUS</title>
+        An aspiring Business Woman
+    </description>
+</profile_container>

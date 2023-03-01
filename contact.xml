@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contact>
+    <title>Contact Me:</title>
+    <fb>
+        <image>
+            <url>https://cdn-icons-png.flaticon.com/512/3670/3670032.png</url>
+        </image>
+        <fb_link>https://www.facebook.com/HuangRichPanda</fb_link>
+        <name>Richie Narval</name>
+    </fb>
+    <email>
+        <image>
+            <url>https://cdn-icons-png.flaticon.com/512/732/732200.png</url>
+        </image>
+        <name>tessnarval11@gmail.com</name>
+    </email>
+    <ctu_email>
+        <image>
+            <url>images/ctu_hha-removebg-preview.png</url>
+        </image>
+        <name>richietesslourdes.narval@ctu.edu.ph</name>
+    </ctu_email>
+    <number>
+        <image>
+            <url>https://cdn-icons-png.flaticon.com/512/552/552489.png</url>
+        </image>
+        <name>09454312045</name>
+    </number>
+    <ig>
+        <image>
+            <url>https://cdn-icons-png.flaticon.com/512/2111/2111463.png</url>
+        </image>
+        <name>@rr_achie</name>
+    </ig>
+</contact>

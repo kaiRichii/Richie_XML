@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XML</title>
+    <style type="text/css">
+        *{
+            margin: 0px;
+            padding: 0px;
+        }
+        body{
+            background-color: whitesmoke;
+        }
+        nav{
+            background-color: black;
+            padding: 10px 0px 10px 20px;
+            display: flex;
+            align-items: center;
+        }
+        .xml-img{
+            width: 40px;
+            height: 40px;
+        }
+        a{
+            text-decoration: none;
+            padding-left: 5px;
+            font-family: arial;
+            font-size: 15px;
+        }
+        a:link{
+            color: white;
+        }
+        a:visited{
+            color: white;
+        }
+        a:hover{
+            color: #f34135;
+        }
+        h1{
+            /* border: 1px solid black; */
+            width: 100px;
+            margin: 0 auto;
+            margin-top: 5rem;
+            background-color: #f34135;
+            text-align: center;
+            padding: 5px;
+            border-radius: 3px;
+            font-family: monospace;
+            font-size: 2rem;
+        }
+        .label{
+            /* border: 1px solid red; */
+            /* background-color: whitesmoke; */
+            text-align: center;
+            margin-top: 60px;
+            font-family: system-ui;
+            font-size: medium;
+        }
+        iframe{
+            display: block;
+            padding-left: 20px;
+        }
+        .xml-con{
+            display: flex;
+            flex-direction: row;
+            /* border: 1px solid red; */
+            width: fit-content;
+            margin: 0 auto;
+            margin-top: 50px;
+            margin-bottom: 60px;
+            padding: 20px;
+            background-color: #EDDBC7;
+            border-radius: 4px;
+        }
+        .ctu-img{
+            width: 80px;
+            height: 80px;
+            padding: 20px 0px 0px 0px;
+        }
+        footer{
+            margin-top: 150px;
+            /* border: 1px solid red; */
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="#xml"><img class="xml-img" src="images/xml.png"/></a>
+            <a href="#richie">Richie Narval</a>
+        </nav>
+        <h1>XML</h1>
+    </header>
+    <main>
+        <p class="label" id="xml">The following content is generated from an XML file:</p>
+        
+        <div class="xml-con" id="xml">
+            <iframe src="profile.xml" frameborder="0"></iframe>
+            <iframe src="recommend.xml" frameborder="0"></iframe>
+        </div>
+        <div class="xml-con" id="xml">
+            <iframe src="contact.xml" frameborder="0"></iframe>
+            <iframe src="hobbies.xml" frameborder="0"></iframe>
+        </div>
+    </main>
+    <footer>
+        <img class="ctu-img" id="richie" src="images/ctu_hha-removebg-preview.png" alt="">
+        <p style="font-family: system-ui;">&copy;Richie Narval</p>
+    </footer>
+</body>
+</html>

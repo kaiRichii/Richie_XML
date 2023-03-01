@@ -1,0 +1,70 @@
+<recommendations>
+    <recommend_container>
+        <items_container>
+            <label>Bags</label>
+            <list_item>
+                <link>https://www.canvasclub.store/product-page/mailman-sling</link>
+                <name>Mail Man Sling</name>
+            </list_item>
+            <list_item>
+                <link>https://www.shopstraightforward.com/collections/bags/products/d-v-l-portrait-expandable-tote-bag</link>
+                <name>DVL Portrait Expandable Tote Bag</name>
+            </list_item>
+            <list_item>
+                <link>https://shopee.ph/Doughnut-Macaroon-Backpack-Classic-and-Mini
+                -School-Bag-Pastel-Series-(New-Logo)School-Bag-(COD)-i.373524263.21522696201?sp_atk=76969ca4-e389-43a4-b0b3-e5c65b925a21&amp;xptdk=76969ca4
+                -e389-43a4-b0b3-e5c65b925a21</link>
+                <name>Mini Doughnut Macaroon Backpack</name>
+            </list_item>
+        </items_container>
+
+        <items_container>
+            <label>Random Videos</label>
+            <list_item>
+                <link>https://www.youtube.com/watch?v=To8hKb112Aw</link>
+                <title>if I could start over</title>
+            </list_item>
+            <list_item>
+                <link>https://www.youtube.com/watch?v=YZkXDuKto_Y</link>
+                <title>The Night Stalker: Richard Ramirez</title>
+            </list_item>
+            <list_item>
+                <link>https://www.youtube.com/watch?v=Cz3jsp0LBC8</link>
+                <title>SEULGI - 28 Reasons</title>
+            </list_item>
+        </items_container>
+
+        <items_container>
+            <label>Shoes/Sandals</label>
+            <list_item>
+                <link>https://www2.hm.com/en_asia5/productpage.1082477002.html</link>
+                <title>Chunky loafers</title>
+            </list_item>
+            <list_item>
+                <link>https://www.cln.com.ph/collections/shoes/products/ridge?variant=40816993468527</link>
+                <title>Ridge Heel Sandals</title>
+            </list_item>
+            <list_item>
+                <link>https://www2.hm.com/en_asia5/productpage.1074572001.html</link>
+                <title>Cream/Burgundy Trainers</title>
+            </list_item>
+        </items_container>
+
+        <items_container>
+            <label>Kdramas</label>
+            <list_item>
+                <link>https://www.viu.com/ott/ph/en-us/vod/318674/Mr-Queen</link>
+                <title>Mr. Queen</title>
+            </list_item>
+            <list_item>
+                <link>https://www.viu.com/ott/ph/en-us?r=search&amp;screen=Home&amp;keyword=Moon+
+                Lovers%3A+Scarlet+Heart+Ryeo+%28Tagalog%29&amp;user_input=lovers&amp;keyword_group=series</link>
+                <title>Moon Lovers: Scarlet Heart Ryeo</title>
+            </list_item>
+            <list_item>
+                <link>https://www.viu.com/ott/ph/en-us/vod/180205/Angels-Last-Mission-Love</link>
+                <title>Angel's Last Mission-Love</title>
+            </list_item>
+        </items_container>
+    </recommend_container>
+</recommendations>
